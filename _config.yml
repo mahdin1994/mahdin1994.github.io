@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryuichi Takanobu"
+title                    : "Mahdin Rohmatillah"
 title_separator          : "-"
-name                     : &name "Ryuichi Takanobu"
-description              : &description "Master student at Tsinghua University"
-url                      : https://truthless11.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Mahdin Rohmatillah"
+description              : &description "PhD student at Tsinghua University"
+url                      : https://mahdin1994.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "truthless11/truthless11.github.io"
+repository               : "mahdin1994/mahdin1994.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryuichi Takanobu"
+  name             : "Mahdin Rohmatillah"
   avatar           : "profile.jpg"
-  bio              : "Master student at Tsinghua University"
+  bio              : "PhD student at Tsinghua University"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=DwKuTLwAAAAJ"
-  email            : "truthless11@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=c9XjbCcAAAAJ&hl=en"
+  email            : "mahdin.eed08g@nctu.edu.tw"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "truthless11"
+  github           : "mahdin1994"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ryuichi-takanobu-93792a195"
+  linkedin         : "mahdin-rohmatillah-99596799"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
