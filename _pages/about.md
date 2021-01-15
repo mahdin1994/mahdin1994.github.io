@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD student in [ML Lab](http://http://chien.cm.nctu.edu.tw/home/professor-page-//), [Department of Electrical and Computer Engineering](https://www.ece.nctu.edu.tw/eng/latestevent/index.aspx?Parser=9,11,98,90) in National Chiao Tung University, Hsinchu, Taiwan. My supervisor is Prof. [Jen-Tzung Chien](https://www.dece.nctu.edu.tw/en/faculty/prof/Jen-Tzung-Chien-72576208). My research interest are application of reinforcement learning and dialogue system.
+I am a PhD student from [Department of Electrical and Computer Engineering](https://www.ece.nctu.edu.tw/eng/latestevent/index.aspx?Parser=9,11,98,90) National Chiao Tung University, works in [ML Lab](http://http://chien.cm.nctu.edu.tw/home/professor-page-//) advised by Professor [Jen-Tzung Chien](https://www.dece.nctu.edu.tw/en/faculty/prof/Jen-Tzung-Chien-72576208). My recent research interests are application of reinforcement learning and dialogue system.
 
 Education
 ======
