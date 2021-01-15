@@ -28,7 +28,7 @@ Publications
 
 - Sholeh Hadi Pramono, **Mahdin Rohmatillah**, Hadi Suyono, Rahmadwati. Implementation of Deep Learning in Spatial Multiplexing MIMO Communication. Indonesian Journal of Electrical Engineering and Computer Science, 2018. (**IJEECS'18**)
 - Sholeh Hadi Pramono, **Mahdin Rohmatillah**, Eka Maulana, Rini Nur Hidayat, Fakhriy Hario. Deep Learning-Based Short-Term Load Forecasting for Supporting Demand Response Program in Hybrid Energy System. Energies, 2019. (**Energies'19**)
-- **Mahdin Rohmatillah**, Sholeh Hadi Pramono, Rifa Atul Izza Asyari. Implementation of Deep Learning Based Method for Optimizing Spatial Diversity MIMO Communication. Indonesian Journal of Electrical Engineering and Informatics, 2020 (**IJEEI**'20)
+- **Mahdin Rohmatillah**, Sholeh Hadi Pramono, Rifa Atul Izza Asyari. Implementation of Deep Learning Based Method for Optimizing Spatial Diversity MIMO Communication. Indonesian Journal of Electrical Engineering and Informatics, 2020 (**IJEEI'20**)
 
 
 
