@@ -13,7 +13,7 @@ I am a PhD student from [Department of Electrical and Computer Engineering](http
 Education
 ======
 - **Sep. 2019 - Now**  Ph.D., Department of Electrical and Computer Engineering, Hsinchu, Taiwan 
-- **Aug. 2016 - Aug. 2018 (expected)**  M.Sc., Department of Electrical Engineering, National Sun Yat Sen University, Kaohsiung, Taiwan.
+- **Aug. 2016 - Aug. 2018**  M.Sc., Department of Electrical Engineering, National Sun Yat Sen University, Kaohsiung, Taiwan.
 - **Aug. 2012 - Feb. 2016** B.Eng., Department of Electrical Engineering, Universitas Brawijaya, Malang, Indonesia.
 
 Publications
